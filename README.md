@@ -1,11 +1,8 @@
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
-
-<img src="./profile-banner.png" alt="Mounish M - Developer Banner" width="100%"/>
-
-<br/>
-
+  <img src="./mounish_profile_banner.gif" width="100%" alt="Mounish M"/>
+</div>
 # Hi, I'm Mounish M 👋
 
 ### Python Developer • AI/ML Enthusiast • Full-Stack Developer
