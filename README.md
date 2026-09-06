@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
-  <img src="./mounish_profile_banner.gif" width="100%" alt="Mounish M"/>
+  <img src="mounish_github_banner_slow_smooth.gif" width="100%" alt="Mounish M"/>
 </div>
 <h1><strong>Hi, I'm Mounish M 👋</strong></h1>
 
