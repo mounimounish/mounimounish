@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./mounish_profile_banner.gif" width="100%" alt="Mounish M"/>
 </div>
-# Hi, I'm Mounish M 👋
+<h1><strong>Hi, I'm Mounish M 👋</strong></h1>
 
 ### Python Developer • AI/ML Enthusiast • Full-Stack Developer
 
